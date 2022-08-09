@@ -1,0 +1,9 @@
+#mainVideo {
+    cursor: pointer;
+    background: url(images/main.jpg) no-repeat right top;
+    display: block;
+    width: 150px;
+    height: 20px;
+    line-height: 20px;
+    border-bottom: 1px solid #333;
+}
